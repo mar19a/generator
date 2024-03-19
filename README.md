@@ -1,5 +1,7 @@
 # Generator
 
+<img width="217" alt="Screenshot 2024-03-18 at 9 41 16 PM" src="https://github.com/mar19a/generatorr/assets/84360137/799daa82-4d60-4072-a2f5-a09163d984c9">
+
 Basic Structure: I have the Button, ImageView, and EditText as required, and I've included multiple drawable resources for the images, so that part checks out.
 
 

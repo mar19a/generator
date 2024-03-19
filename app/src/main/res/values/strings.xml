@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Generator</string>
+    <string name="random_image">Welcome</string>
+    <string name="name">Name</string>
+</resources>
